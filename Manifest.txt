@@ -3,11 +3,11 @@ Manifest.txt
 PostInstall.txt
 README.rdoc
 Rakefile
-lib/string_tokenizer.rb
+lib/string_templater.rb
 script/console
 script/destroy
 script/generate
 spec/spec.opts
 spec/spec_helper.rb
-spec/string_tokenizer_spec.rb
+spec/string_templater_spec.rb
 tasks/rspec.rake

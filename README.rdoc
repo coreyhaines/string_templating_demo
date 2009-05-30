@@ -1,4 +1,4 @@
-= string_tokenizer
+= string_templater
 
 * FIX (url)
 
